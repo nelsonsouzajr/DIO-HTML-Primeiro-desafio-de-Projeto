@@ -1,0 +1,44 @@
+body {
+    font-family: OpenSans,Arial,sans-serif;
+    background-color: rgb(21, 22, 27) !important;
+    color: rgb(250, 250, 250) !important;
+
+}
+
+.header {
+    margin: 5px;
+    padding: 5px;
+    background-color: rgb(10, 10, 10);
+    height: 100px;
+
+}
+
+.header>img {
+    float: left;
+    width: 100px;
+
+}
+
+.header>h1 {
+    padding: 0px;
+    margin: 0px;
+}
+
+ol>ul {
+    color: blue;
+}
+
+p {
+    text-align: justify;
+}
+
+.artigoHtml {
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+
+}
+
+blockquote {
+    text-align: justify;
+}
